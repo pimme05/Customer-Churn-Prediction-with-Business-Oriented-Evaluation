@@ -63,6 +63,9 @@ Evaluation performed on a **held-out test set (20%)**, with decision thresholds 
 | Logistic Regression | 0.726 | 0.242 | 0.662 | Baseline |
 | LightGBM | **0.773** | **0.250** | 0.074 | Better ranking power |
 
+LightGBM model pipeline <img width="1468" height="726" alt="image" src="https://github.com/user-attachments/assets/a22c4494-ae51-4e87-a48b-78accd390aed" />
+
+
 **Notes**
 - ROC-AUC / PR-AUC measure ranking quality
 - Recall at threshold 0.5 is low for churn due to imbalance
