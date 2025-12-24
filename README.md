@@ -1,4 +1,4 @@
-# Customer Churn Prediction & Retention Analytics
+# Customer Churn Prediction with Business-Oriented Evaluation
 
 ## Overview
 End-to-end churn prediction system designed to identify high-risk customers, estimate potential revenue loss, and prioritize retention actions under budget and operational constraints.
